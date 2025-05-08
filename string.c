@@ -35,4 +35,9 @@ strlwr(str)
 String Upper
 strupr(str)
 
+String Splitter
+strtok(str, " ");
+Example:
+while(tok!=NULL) tok = strtok(NULL, " ");
+
 */
